@@ -1,4 +1,4 @@
-package coding.codingtest;
+package coding.codingtest.study1;
 import java.util.Scanner;
 
 public class Main10926 {
