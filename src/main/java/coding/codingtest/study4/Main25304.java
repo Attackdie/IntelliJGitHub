@@ -18,6 +18,5 @@ public class Main25304 {
         if(total == 0) System.out.println("Yes");
         else System.out.println("No");
 
-
     }
 }
