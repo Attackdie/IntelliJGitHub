@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//곱셈
+
 public class Main2588 {
 
     public static void main(String[] args) {

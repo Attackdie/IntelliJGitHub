@@ -1,5 +1,7 @@
 package coding.codingtest.study1;
 import java.util.Scanner;
+
+//나머지
 public class Main10430 {
 
     public static void main(String[] args) {
